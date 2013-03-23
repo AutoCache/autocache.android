@@ -12,6 +12,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:name=".MessagesActivity" />
+        <activity android:name=".RadioActivity" />
+        <activity android:name=".DestinationActivity" />
     </application>
 
     <uses-sdk android:minSdkVersion="10"/>
